@@ -26,6 +26,11 @@ exp 7:selection sort
 
 ![selection sort](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/688f79e4-a35c-4ac3-9410-9471b4817ca1)
 
+exp 8:bubble sort
+
+![image](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/43ad3626-541e-4d74-802b-45b86f9a3dbf)
+
+
 
 
 
