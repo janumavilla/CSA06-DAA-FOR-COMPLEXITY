@@ -5,3 +5,9 @@ exp1:fibonacci series
 exp 2:armstrong number
 
 ![WhatsApp Image 2023-08-16 at 9 30 47 AM](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/32ad86ca-2eef-44cc-97a3-87b7ccb61071)
+
+exp 3:gcd
+
+![gcd](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/f0ff9378-1b30-4ab5-a516-b4b301993af7)
+
+
