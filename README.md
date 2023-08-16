@@ -1,22 +1,22 @@
 exp1:fibonacci series
 
-![WhatsApp Image 2023-08-16 at 9 25 38 AM](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/de80b40f-2aa3-47b7-8d08-81df338968d3)
+![fibo](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/f91eb548-06cd-40e2-a9c6-e8144056db6a)
 
 exp 2:armstrong number
 
-![WhatsApp Image 2023-08-16 at 9 30 47 AM](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/32ad86ca-2eef-44cc-97a3-87b7ccb61071)
+![armstrong number](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/a9de967e-8d40-4d3e-8900-dfeafb6c164f)
 
 exp 3:gcd
 
-![gcd](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/f0ff9378-1b30-4ab5-a516-b4b301993af7)
+![gcd of two numbers](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/0dcb17dd-dd81-4674-8388-24457b7d3865)
 
 exp 4:largest element of array
 
-![largest element of array](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/aadf1221-8be6-4e05-a53a-b6c8a18a1983)
+![largest](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/cf6ff558-3728-4ef9-a60b-522fb3e027dd)
 
 exp 5:factorial 
 
-![factorial](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/8185d372-d81f-46e8-ac27-8072d9b9d72e)
+![fact](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/d761f31a-9c4a-467d-8a41-c571db284d1e)
 
 exp 6:prime or not
 
