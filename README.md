@@ -20,8 +20,7 @@ exp 5:factorial
 
 exp 6:prime or not
 
-![prime or not](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/61c5cb7f-7d42-4f48-a182-eb1f719cd6c8)
-
+![pime](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/24639504-553b-4d62-b2a5-cca9c0019ed3)
 
 
 
