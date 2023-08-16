@@ -22,6 +22,11 @@ exp 6:prime or not
 
 ![pime](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/24639504-553b-4d62-b2a5-cca9c0019ed3)
 
+exp 7:selection sort
+
+![selection sort](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/688f79e4-a35c-4ac3-9410-9471b4817ca1)
+
+
 
 
 
