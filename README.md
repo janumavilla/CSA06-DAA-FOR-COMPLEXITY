@@ -14,5 +14,10 @@ exp 4:largest element of array
 
 ![largest element of array](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/aadf1221-8be6-4e05-a53a-b6c8a18a1983)
 
+exp 5:factorial 
+
+![factorial](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/8185d372-d81f-46e8-ac27-8072d9b9d72e)
+
+
 
 
