@@ -10,4 +10,9 @@ exp 3:gcd
 
 ![gcd](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/f0ff9378-1b30-4ab5-a516-b4b301993af7)
 
+exp 4:largest element of array
+
+![largest element of array](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/aadf1221-8be6-4e05-a53a-b6c8a18a1983)
+
+
 
