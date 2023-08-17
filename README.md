@@ -42,6 +42,11 @@ exp11
 
 ![string](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/1ad97841-5ff5-48d6-ade5-f0126a302dfc)
 
+exp12
+
+![binary search](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/18e4a802-e84f-4f62-ab15-5b7c750d2632)
+
+
 
 
 
