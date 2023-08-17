@@ -30,6 +30,16 @@ exp 8:bubble sort
 
 ![image](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/43ad3626-541e-4d74-802b-45b86f9a3dbf)
 
+exp 9:
+
+![exp9](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/2763078b-d33e-4d49-b41a-6a52a61dcd77)
+
+exp10:palindrome
+
+![palindrome](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/c8ff2430-9440-42af-b595-e59d76b86a52)
+
+
+
 
 
 
