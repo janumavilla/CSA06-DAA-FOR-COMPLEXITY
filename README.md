@@ -54,6 +54,11 @@ exp 14
 
 ![length of string](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/a5ccaca1-5297-4c74-a96e-bcd91572cacc)
 
+exp 15
+
+![image](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/059858b7-7738-4b24-a2f8-e3bf7bfcffac)
+
+
 
 
 
