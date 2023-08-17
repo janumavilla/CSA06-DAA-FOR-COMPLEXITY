@@ -38,6 +38,11 @@ exp10:palindrome
 
 ![palindrome](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/c8ff2430-9440-42af-b595-e59d76b86a52)
 
+exp11
+
+![string](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/1ad97841-5ff5-48d6-ade5-f0126a302dfc)
+
+
 
 
 
