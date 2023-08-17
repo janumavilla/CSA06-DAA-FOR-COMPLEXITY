@@ -62,6 +62,11 @@ exp 16
 
 ![image](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/fce15119-b8b9-4fec-af7d-550f97b0706b)
 
+exp 17
+
+![min and max](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/7fb8c1c0-d6e8-4077-8a79-3bdb4aff24cf)
+
+
 
 
 
