@@ -50,6 +50,11 @@ exp13
 
 ![reverse a string](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/311cdecc-7c7e-4322-94df-bdc10b503c53)
 
+exp 14
+
+![length of string](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/a5ccaca1-5297-4c74-a96e-bcd91572cacc)
+
+
 
 
 
