@@ -106,6 +106,11 @@ exp 29
 
 ![optimal cost](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/bb4f6619-10bc-476a-95df-f5b1610fc79f)
 
+exp 30
+
+![sum of digits](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/99ab321c-7d64-433b-ac45-cf3bac121017)
+
+
 
 
 
