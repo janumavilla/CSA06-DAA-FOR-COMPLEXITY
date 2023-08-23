@@ -134,6 +134,11 @@ exp 38
 
 ![assignment probem](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/e5a3ede1-64a2-4a7a-96a4-78bac3fb4cf7)
 
+exp 39
+
+![linear search](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/725439ec-3a7c-4c25-9103-e8d9cf174864)
+
+
 
 
 
