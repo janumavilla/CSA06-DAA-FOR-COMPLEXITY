@@ -102,6 +102,11 @@ exp 28
 
 ![pascal triangle](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/98bf292d-5968-4bbd-8c99-a30a338f11fa)
 
+exp 29
+
+![optimal cost](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/bb4f6619-10bc-476a-95df-f5b1610fc79f)
+
+
 
 
 
