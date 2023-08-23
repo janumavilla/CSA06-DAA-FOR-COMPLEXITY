@@ -114,6 +114,11 @@ exp 31
 
 ![min and max sequence](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/a64cde33-b299-444a-b9fb-fd7ac1467152)
 
+exp 32
+
+![n queen](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/650e1f4f-edd7-40ef-81aa-24c5292de9a1)
+
+
 
 
 
