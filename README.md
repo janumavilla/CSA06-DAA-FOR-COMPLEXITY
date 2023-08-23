@@ -90,6 +90,11 @@ exp 24
 
 ![perfect number](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/f0d4e977-3e1b-4a3c-9271-557bc887851a)
 
+exp 25
+
+![tsp](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/b25ca1cd-dbba-4e2a-a6fa-78752b130ba5)
+
+
 
 
 
