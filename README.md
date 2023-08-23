@@ -130,6 +130,11 @@ exp 37
 
 ![factors of n](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/fcbff0c7-bf7a-4d8b-b7dc-27054594a6bb)
 
+exp 38
+
+![assignment probem](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/e5a3ede1-64a2-4a7a-96a4-78bac3fb4cf7)
+
+
 
 
 
