@@ -86,6 +86,11 @@ exp 23
 
 ![reverse](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/6d60f20b-6782-4081-960c-61483bab9d73)
 
+exp 24
+
+![perfect number](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/f0d4e977-3e1b-4a3c-9271-557bc887851a)
+
+
 
 
 
