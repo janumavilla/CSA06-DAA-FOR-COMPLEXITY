@@ -78,6 +78,11 @@ exp 20
 
 ![exp 21](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/c87ff39d-e07f-48f5-9821-9967b79b2704)
 
+exp 22
+
+![exp 22](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/7687923c-400e-4414-8815-f0719b32734d)
+
+
 
 
 
