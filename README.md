@@ -98,6 +98,11 @@ exp 27
 
 ![warshall](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/31a2d1ea-c118-451d-bbd1-30863a9624ff)
 
+exp 28
+
+![pascal triangle](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/98bf292d-5968-4bbd-8c99-a30a338f11fa)
+
+
 
 
 
