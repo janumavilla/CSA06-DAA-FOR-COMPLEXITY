@@ -126,6 +126,11 @@ EXP 35
 
 ![graph coloring (3)](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/32de0c1b-28f1-4a99-a094-2c284b453c27)
 
+exp 37
+
+![factors of n](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/fcbff0c7-bf7a-4d8b-b7dc-27054594a6bb)
+
+
 
 
 
