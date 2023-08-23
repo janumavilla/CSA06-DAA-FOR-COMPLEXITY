@@ -74,6 +74,11 @@ exp 19
 
 ![knapsack](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/e2e23c18-05b5-46db-826f-ebd1d396c9e2)
 
+exp 20
+
+![exp 21](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/c87ff39d-e07f-48f5-9821-9967b79b2704)
+
+
 
 
 
