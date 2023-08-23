@@ -110,6 +110,11 @@ exp 30
 
 ![sum of digits](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/99ab321c-7d64-433b-ac45-cf3bac121017)
 
+exp 31
+
+![min and max sequence](https://github.com/janumavilla/CSA06-DAA-FOR-COMPLEXITY/assets/112294762/a64cde33-b299-444a-b9fb-fd7ac1467152)
+
+
 
 
 
